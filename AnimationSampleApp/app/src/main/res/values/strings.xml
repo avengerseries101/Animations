@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animation Sample App</string>
+    <string name="animated_text1">Animated Text, Way-1, programmatically.</string>
+    <string name="animated_text2">Animated Text, Way-2, Through XML.</string>
+</resources>
